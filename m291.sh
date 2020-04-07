@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "process no of current process"
+echo "$$"
+echo "process no of last background process"
+echo "$!"
+echo "exit valu of last command"
+echo "$?"
+echo "command of program name"
+echo "$0"
+echo "positional parameter number n"
+echo "$3"
+echo " all command line argument"
+echo "$*"
